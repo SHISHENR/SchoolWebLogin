@@ -38,3 +38,11 @@
 7.校园网账号管理
 
 软件暂不开源，软件需要管理员权限修改任务计划，请勿下载被逆向、篡改过后的软件
+
+## Star History
+
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=SHISHENR/SchoolWebLogin&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=SHISHENR/SchoolWebLogin&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SHISHENR/SchoolWebLogin&type=Date" />
+ </picture>
